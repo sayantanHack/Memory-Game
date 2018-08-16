@@ -4,8 +4,8 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [DemoPicture](#Pic)
-* [GameRule](#Rule)
+* [DemoPicture](#demoPicture)
+* [GameRule](#gameRule)
 
 
 ## Instructions
