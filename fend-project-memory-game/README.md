@@ -4,8 +4,8 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Demo Picture](#Pic)
-* [Game Rule](#Rule)
+* [DemoPicture](#Pic)
+* [GameRule](#Rule)
 
 
 ## Instructions
@@ -23,7 +23,14 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Pic
+You have to click on any block & match the other block with it.<br>
+<b>If The Block does not match each other then it will be red .</b>
 
+![screenshot from 2018-08-16 09-45-36](https://user-images.githubusercontent.com/26269305/44186924-dabfa280-a139-11e8-9049-13aef5c1805d.png)
+
+<br><b>If the Blocks match with another block then it will be Green. </b>
+
+![screenshot from 2018-08-16 09-46-02](https://user-images.githubusercontent.com/26269305/44187150-093d7d80-a13a-11e8-9e6f-3a911ab6692a.png)
 
 ## Rule
 
