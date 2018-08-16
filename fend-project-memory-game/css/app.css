@@ -220,6 +220,11 @@ h1 {
 	color: #ffffff;
 	border-radius: 5px;
 }
+/* Footer styles of name */
+body p a{
+  text-decoration: none;
+  color: #1c8d05;
+}
 
 /* animations */
 @keyframes flipInY {
