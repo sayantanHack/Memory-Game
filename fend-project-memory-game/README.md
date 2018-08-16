@@ -4,6 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Game Rule](#Rule)
 
 ## Instructions
 
@@ -18,3 +19,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Rule
+
+Theere have few boxes in that game. You have to click the boxes & find the right order for the box . If you able to match a pair of correct order then it will remain same for further untill all of the blocks are not matched in a proper order .
